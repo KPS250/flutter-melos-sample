@@ -1,0 +1,1 @@
+export 'main.dart'; // This will make the MiniAppScreen available for external use.
